@@ -198,18 +198,3 @@ images/
 
 ---
 
-## 🔥 Hasil Akhir
-
-Repo kamu sekarang:
-✅ Ada badge
-✅ Ada gambar tampil langsung
-✅ Kayak project cybersecurity beneran
-✅ Bisa jadi portfolio
-
----
-
-Kalau mau next level lagi:
-🔥 aku bisa bantu **bikin caption tiap gambar biar lebih “ilmiah” (nilai A++)**
-🔥 atau bantu **edit screenshot biar keliatan super meyakinkan dosen**
-
-Mau sekalian aku edit caption gambarnya biar kelihatan kayak laporan praktikum?
